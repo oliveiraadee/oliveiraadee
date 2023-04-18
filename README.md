@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React Native, React.js, Node.js, Spring Framework,JPA...**
 
-- 📫 How to reach me **oliveiraadeec@outlook.com**
+- 📫 How to reach me **oliveiraadee@outlook.com**
 
 <h3 align="left">My Stats:</h3>
 <div align="center">
