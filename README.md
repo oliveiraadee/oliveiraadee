@@ -1,28 +1,28 @@
   <h5 align="left" >Connect with me:</h5> 
-<a href="https://dev.to/deecarneiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deecarneiro" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deecarneiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deecarneiro" height="30" width="40" /></a>
-<a href="https://codesandbox.com/deecarneiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="deecarneiro" height="30" width="40" /></a>
-<h1 align="center"> Hi 👋, I'm Dee  </h1>
+<a href="https://dev.to/oliveiraadee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oliveiraadee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oliveiraadee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliveiraadee" height="30" width="40" /></a>
+<a href="https://codesandbox.com/oliveiraadee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="oliveiraadee" height="30" width="40" /></a>
+<h1 align="center"> Hi 👋, I'm Dee Oliveira</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Mobile Development and L0VE 2D**
 
 - 💬 Ask me about **React Native, React.js, Node.js, Spring Framework,JPA...**
 
-- 📫 How to reach me **deysedayane.o.c@gmail.com**
+- 📫 How to reach me **oliveiraadeec@outlook.com**
 
 <h3 align="left">My Stats:</h3>
 <div align="center">
-  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=carneirodee&theme=dark" alt="carneirodee" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=carneirodee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiraadee&theme=dark" alt="oliveiraadee" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=oliveiraadee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carneirodee&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraadee&layout=compact&langs_count=7&theme=dark"/>
   </br>
 </div>
   </br>
